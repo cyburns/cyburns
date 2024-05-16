@@ -1,6 +1,6 @@
 ### Hey! My names is Cyrus.
 
-### Contact me through my website [cyrusburns.com](https://cyrusburns.com) or @cyrusburns@gmail.com
+### Contact me through my website [cyrusburns.com](https://cyrusburns.com) or cyrusburns@gmail.com.
 
 ### Here are some of my favorite languages and technologies I'd love to chat about!
 
