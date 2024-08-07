@@ -22,3 +22,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
+
+[](https://github-readme-stats.vercel.app/api?username={cyburns}&theme=blue-green)
